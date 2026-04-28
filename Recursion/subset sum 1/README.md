@@ -18,5 +18,3 @@ Constraints:
 1<= arr[i] <= 200
 1<= sum <= 104
 
-Time Complexity: O(sum*n)
-Auxiliary Space: O(sum)
